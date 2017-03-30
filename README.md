@@ -1,6 +1,6 @@
 # servestatic
 
-Download the exe for 64 bit window from the download folder
+Download the exe for 64 bit Windows from the download folder
 
 Usage
 
