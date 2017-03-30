@@ -6,4 +6,4 @@ Usage
 
 ./servestatic.exe -s="C:\Users\username\www"
 
-./servestatic.exe -bind=:8080 -s="C:\Users\amt\www"
+./servestatic.exe -bind=:8080 -s="C:\Users\username\www"
